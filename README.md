@@ -1,6 +1,6 @@
 ## ACL4SSR_Online_Mannix.ini
 
-修改自 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini
+修改自 https://github.com/zsokami/ACL4SSR/blob/main/ACL4SSR_Online_Mannix.ini
 
 自带旗帜 emoji 添加逻辑，原名不包含旗帜 emoji 才添加，原名已包含旗帜 emoji 则不添加
 
